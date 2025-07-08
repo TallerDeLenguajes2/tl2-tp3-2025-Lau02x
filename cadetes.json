@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nombre":"Carlos",
+        "direccion":"Ecuador 1400",
+        "telefono": "381333444"
+    },
+    {
+        "id":2,
+        "nombre":"David",
+        "direccion":"Colombia 300",
+        "telefono": "38122233444"
+    },
+    {
+        "id":3,
+        "nombre":"Marcelo",
+        "direccion":"Pasaje 33",
+        "telefono": "38129290391"
+    },
+    {
+        "id":4,
+        "nombre":"Jason",
+        "direccion":"San Martin 302",
+        "telefono": "38159403"
+    }
+]
